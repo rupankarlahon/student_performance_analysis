@@ -1,5 +1,5 @@
 # student_performance_analysis
-To analyze and visualize factors affecting students’ exam performance based on demographics, parental education level, and test preparation.
+A data science project to analyze factors influencing student exam scores
 # 🧠 Student Performance Analysis
 
 A data science project analyzing factors affecting students’ academic performance based on demographics, parental education, and test preparation.
