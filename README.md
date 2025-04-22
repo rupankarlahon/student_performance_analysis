@@ -28,9 +28,6 @@ This project explores a dataset of student scores in math, reading, and writing.
 - `visuals/`: Graphs and plots used in the analysis
 - `requirements.txt`: Dependencies
 
-## Sample Visualizations
-![Test Prep vs Reading Score](visuals/test_prep_vs_scores.png)
-
 ## How to Run
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
