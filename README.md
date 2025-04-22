@@ -28,11 +28,6 @@ This project explores a dataset of student scores in math, reading, and writing.
 - `visuals/`: Graphs and plots used in the analysis
 - `requirements.txt`: Dependencies
 
-## How to Run
-1. Clone this repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook
-
 ## Future Work
 - Add predictive modeling (e.g., classification of pass/fail)
 - Deploy insights in a Streamlit dashboard
